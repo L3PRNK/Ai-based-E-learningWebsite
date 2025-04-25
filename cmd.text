@@ -1,0 +1,14 @@
+java -Djava.library.path="C:\Users\darsh\Downloads\dynamodb-local" -jar "C:\Users\darsh\Downloads\dynamodb-local\DynamoDBLocal.jar" -sharedDb -dbPath "C:\Users\darsh\OneDrive\Desktop\project"
+
+textfile
+    
+
+     aws dynamodb list-tables --endpoint-url http://localhost:8000
+
+
+
+
+gemini api key=AIzaSyChVM9Zm1RoIPkyIZ8IvbUOGJEHKXvXs7k
+
+
+groqapi=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

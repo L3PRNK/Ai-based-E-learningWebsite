@@ -1,0 +1,120 @@
+[
+  {
+    "courseId": "mob1a2b3c-d4e5-f6g7-h8i9-j0k1l2m3n4o5",
+    "teacherId": "user_4mNj68RtPvXw2Ky9Qc7HbSdAf",
+    "teacherName": "Alex Turner",
+    "title": "iOS App Development with Swift",
+    "description": "Learn to build professional iOS applications using Swift and SwiftUI.",
+    "category": "Mobile App Development",
+    "image": "https://images.pexels.com/photos/1294886/pexels-photo-1294886.jpeg",
+    "price": 13999,
+    "level": "Intermediate",
+    "status": "Published",
+    "enrollments": [
+      { "userId": "user_2ntu96pUCljUV2T9W0AThzjacQB" },
+      { "userId": "user_5vBn23WsLkMp7Jh4Gt8FxYcRz" }
+    ],
+    "sections": [
+      {
+        "sectionId": "sec_ios_basics_123",
+        "sectionTitle": "Swift Programming Fundamentals",
+        "sectionDescription": "Master the basics of Swift programming language",
+        "chapters": [
+          {
+            "chapterId": "chap_swift_intro_abc",
+            "type": "Video",
+            "title": "Introduction to Swift",
+            "content": "https://example.com/videos/swift-intro.mp4",
+            "video": "https://example.com/videos/swift-intro.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "chap_swift_basics_def",
+            "type": "Quiz",
+            "title": "Swift Basics Quiz",
+            "content": "1. What is a variable in Swift?\n2. Explain optionals in Swift.\n3. What are Swift protocols?",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "game1d2e3f-g4h5-i6j7-k8l9-m0n1o2p3q4r5",
+    "teacherId": "user_7kFh92JkCpQw3N8M5L4xRzVtYs",
+    "teacherName": "Sarah Chen",
+    "title": "Unity Game Development Fundamentals",
+    "description": "Create interactive 2D and 3D games using Unity game engine",
+    "category": "Game Development",
+    "image": "https://images.pexels.com/photos/159204/game-controller-joystick-joypad-gamepad-159204.jpeg",
+    "price": 11999,
+    "level": "Beginner",
+    "status": "Published",
+    "enrollments": [
+      { "userId": "user_6tHm89QwNpKj3Fx5Vy2RdLcBs" }
+    ],
+    "sections": [
+      {
+        "sectionId": "sec_unity_basics_456",
+        "sectionTitle": "Getting Started with Unity",
+        "sectionDescription": "Learn Unity interface and basic game development concepts",
+        "chapters": [
+          {
+            "chapterId": "chap_unity_intro_xyz",
+            "type": "Video",
+            "title": "Unity Interface Overview",
+            "content": "https://example.com/videos/unity-interface.mp4",
+            "video": "https://example.com/videos/unity-interface.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "chap_unity_scripts_uvw",
+            "type": "Text",
+            "title": "C# Scripting in Unity",
+            "content": "Learn how to write C# scripts for game objects and behaviors...",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "iot1g2h3i-j4k5-l6m7-n8o9-p0q1r2s3t4u5",
+    "teacherId": "user_3rTg67LmZnXc4Vb8Wd0JyUhEq",
+    "teacherName": "Michael Rodriguez",
+    "title": "IoT with Arduino and Raspberry Pi",
+    "description": "Build smart devices and automate your world with IoT technologies",
+    "category": "Internet of Things (IoT)",
+    "image": "https://images.pexels.com/photos/1472443/pexels-photo-1472443.jpeg",
+    "price": 9999,
+    "level": "Intermediate",
+    "status": "Published",
+    "enrollments": [
+      { "userId": "user_9xWp45MnKjL8vRt2Hs6BqDcEy" }
+    ],
+    "sections": [
+      {
+        "sectionId": "sec_iot_arduino_789",
+        "sectionTitle": "Arduino Programming",
+        "sectionDescription": "Learn to program Arduino microcontrollers",
+        "chapters": [
+          {
+            "chapterId": "chap_arduino_basics_def",
+            "type": "Video",
+            "title": "Getting Started with Arduino",
+            "content": "https://example.com/videos/arduino-basics.mp4",
+            "video": "https://example.com/videos/arduino-basics.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "chap_sensors_ghi",
+            "type": "Quiz",
+            "title": "Sensors and Actuators",
+            "content": "1. What is a digital sensor?\n2. How do actuators work?\n3. Explain PWM signals.",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  }
+]

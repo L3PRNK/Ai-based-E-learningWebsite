@@ -1,0 +1,843 @@
+[
+  {
+    "courseId": "3a9f3d6c-c391-4b1c-9c3d-6c3f3d6c3f3d",
+    "teacherId": "user_7kFh92JkCpQw3N8M5L4xRzVtYs",
+    "teacherName": "John Doe",
+    "title": "Introduction to Programming",
+    "description": "Learn the basics of programming with this comprehensive course.",
+    "category": "Computer Science",
+    "image": "https://images.pexels.com/photos/5905888/pexels-photo-5905888.jpeg",
+    "price": 4999,
+    "level": "Beginner",
+    "status": "Published",
+    "enrollments": [
+      { "userId": "user_2ntu96pUCljUV2T9W0AThzjacQB" },
+      { "userId": "user_9xWp45MnKjL8vRt2Hs6BqDcEy" }
+    ],
+    "sections": [
+      {
+        "sectionId": "2f9d1e8b-5a3c-4b7f-9e6d-8c2a1f0b3d5e",
+        "sectionTitle": "Getting Started",
+        "sectionDescription": "Learn the basics of programming and set up your development environment.",
+        "chapters": [
+          {
+            "chapterId": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
+            "type": "Video",
+            "title": "Welcome to Programming",
+            "content": "https://example.com/videos/welcome.mp4",
+            "video": "https://example.com/videos/welcome.mp4",
+            "comments": [
+              {
+                "commentId": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+                "userId": "emma.wilson@hotmail.com",
+                "text": "Great introduction!",
+                "timestamp": "2023-03-10T09:15:00Z"
+              }
+            ]
+          },
+          {
+            "chapterId": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6q7",
+            "type": "Text",
+            "title": "What is Programming?",
+            "content": "Programming is the process of creating instructions for computers to follow...",
+            "comments": []
+          },
+          {
+            "chapterId": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7r8",
+            "type": "Quiz",
+            "title": "Programming Basics Quiz",
+            "content": "1. What is a variable?\n2. What is the difference between a compiler and an interpreter?\n3. Name three popular programming languages.",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "sectionId": "3g0e2f9c-6d4e-5a7f-8b9g-1h2i3j4k5l6m",
+        "sectionTitle": "Basic Programming Concepts",
+        "sectionDescription": "Explore fundamental programming concepts and data types.",
+        "chapters": [
+          {
+            "chapterId": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9",
+            "type": "Video",
+            "title": "Variables and Data Types",
+            "content": "https://example.com/videos/variables-data-types.mp4",
+            "video": "https://example.com/videos/variables-data-types.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
+            "type": "Text",
+            "title": "Control Structures",
+            "content": "Control structures are fundamental elements in programming that allow you to control the flow of your program...",
+            "comments": []
+          },
+          {
+            "chapterId": "f6g7h8i9-j0k1-l2m3-n4o5-p6q7r8s9t0u1",
+            "type": "Quiz",
+            "title": "Control Structures Quiz",
+            "content": "1. What is an if-else statement?\n2. Explain the purpose of a loop.\n3. What is a switch statement?",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "sectionId": "4h1f3g0d-7e5f-6b8g-9c0h-2i3j4k5l6m7n",
+        "sectionTitle": "Functions and Modules",
+        "sectionDescription": "Learn how to organize your code using functions and modules.",
+        "chapters": [
+          {
+            "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
+            "type": "Video",
+            "title": "Introduction to Functions",
+            "content": "https://example.com/videos/intro-to-functions.mp4",
+            "video": "https://example.com/videos/intro-to-functions.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+            "type": "Text",
+            "title": "Creating and Using Modules",
+            "content": "Modules are a way to organize and reuse code across different parts of your program...",
+            "comments": []
+          },
+          {
+            "chapterId": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
+            "type": "Quiz",
+            "title": "Functions and Modules Quiz",
+            "content": "1. What is the difference between a function and a method?\n2. How do you import a module in Python?\n3. What is the purpose of the 'return' statement in a function?",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "8b4f7d9c-4b1c-4b1c-8b4f-7d9c8b4f7d9c",
+    "teacherId": "user_4mNj68RtPvXw2Ky9Qc7HbSdAf",
+    "teacherName": "Alice Johnson",
+    "title": "Advanced Machine Learning",
+    "description": "Dive deep into machine learning algorithms and techniques.",
+    "category": "Artificial Intelligence",
+    "image": "https://images.pexels.com/photos/6303596/pexels-photo-6303596.jpeg",
+    "price": 9999,
+    "level": "Advanced",
+    "status": "Published",
+    "enrollments": [
+      { "userId": "user_2ntu96pUCljUV2T9W0AThzjacQB" },
+      { "userId": "user_5vBn23WsLkMp7Jh4Gt8FxYcRz" }
+    ],
+    "sections": [
+      {
+        "sectionId": "1a7b3c5d-9e2f-4g6h-8i0j-2k4l6m8n0p1q",
+        "sectionTitle": "Neural Networks",
+        "sectionDescription": "Learn about neural networks and their applications.",
+        "chapters": [
+          {
+            "chapterId": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7r8",
+            "type": "Video",
+            "title": "Introduction to Neural Networks",
+            "content": "https://example.com/videos/neural-networks-intro.mp4",
+            "videoLength": 1200,
+            "comments": [],
+            "videoUrl": "https://example.com/videos/neural-networks-intro.mp4",
+            "videoUniqueId": "vid_004",
+            "videoType": "hls"
+          },
+          {
+            "chapterId": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9",
+            "type": "Quiz",
+            "title": "Neural Networks Quiz",
+            "content": "1. What is a neuron?\n2. Explain backpropagation.\n3. What is an activation function?",
+            "comments": []
+          },
+          {
+            "chapterId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
+            "type": "Text",
+            "title": "Types of Neural Networks",
+            "content": "There are various types of neural networks, each designed for specific tasks...",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "sectionId": "2b8c4d6e-0f3g-5h7i-9j1k-3l5m7n9p1q3r",
+        "sectionTitle": "Deep Learning",
+        "sectionDescription": "Explore advanced deep learning techniques and architectures.",
+        "chapters": [
+          {
+            "chapterId": "f6g7h8i9-j0k1-l2m3-n4o5-p6q7r8s9t0u1",
+            "type": "Video",
+            "title": "Convolutional Neural Networks",
+            "content": "https://example.com/videos/cnn-explained.mp4",
+            "videoLength": 1500,
+            "comments": [],
+            "videoUrl": "https://example.com/videos/cnn-explained.mp4",
+            "videoUniqueId": "vid_005",
+            "videoType": "dash"
+          },
+          {
+            "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
+            "type": "Text",
+            "title": "Recurrent Neural Networks",
+            "content": "Recurrent Neural Networks (RNNs) are a class of neural networks designed to work with sequential data...",
+            "comments": []
+          },
+          {
+            "chapterId": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+            "type": "Quiz",
+            "title": "Deep Learning Architectures Quiz",
+            "content": "1. What is the main advantage of CNNs?\n2. Explain the vanishing gradient problem in RNNs.\n3. What is transfer learning?",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "sectionId": "3c9d5e7f-1g4h-6i8j-0k2l-4m6n8p0q2r4s",
+        "sectionTitle": "Advanced ML Algorithms",
+        "sectionDescription": "Study cutting-edge machine learning algorithms and their implementations.",
+        "chapters": [
+          {
+            "chapterId": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
+            "type": "Video",
+            "title": "Generative Adversarial Networks",
+            "content": "https://example.com/videos/gan-explained.mp4",
+            "videoLength": 1800,
+            "comments": [],
+            "videoUrl": "https://example.com/videos/gan-explained.mp4",
+            "videoUniqueId": "vid_006",
+            "videoType": "mp4"
+          },
+          {
+            "chapterId": "j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y5",
+            "type": "Text",
+            "title": "Reinforcement Learning",
+            "content": "Reinforcement Learning is a type of machine learning where an agent learns to make decisions by interacting with an environment...",
+            "comments": []
+          },
+          {
+            "chapterId": "k1l2m3n4-o5p6-q7r8-s9t0-u1v2w3x4y5z6",
+            "type": "Quiz",
+            "title": "Advanced ML Algorithms Quiz",
+            "content": "1. What are the components of a GAN?\n2. Explain the difference between Q-learning and policy gradients.\n3. What is the purpose of the discriminator in a GAN?",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "c5d6e7f8-g9h0-i1j2-k3l4-m5n6o7p8q9r0",
+    "teacherId": "user_7kFh92JkCpQw3N8M5L4xRzVtYs",
+    "teacherName": "John Doe",
+    "title": "Web Development Fundamentals",
+    "description": "Learn the basics of HTML, CSS, and JavaScript to build modern websites.",
+    "category": "Web Development",
+    "image": "https://images.pexels.com/photos/6001397/pexels-photo-6001397.jpeg",
+    "price": 7999,
+    "level": "Beginner",
+    "status": "Published",
+    "enrollments": [
+      { "userId": "user_6tHm89QwNpKj3Fx5Vy2RdLcBs" },
+      { "userId": "user_9xWp45MnKjL8vRt2Hs6BqDcEy" }
+    ],
+    "sections": [
+      {
+        "sectionId": "3e5f7g9h-1i3j-5k7l-9m1n-3o5p7q9r1s3t",
+        "sectionTitle": "HTML Basics",
+        "sectionDescription": "Learn the fundamentals of HTML.",
+        "chapters": [
+          {
+            "chapterId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
+            "type": "Video",
+            "title": "Introduction to HTML",
+            "content": "https://example.com/videos/intro-to-html.mp4",
+            "video": "https://example.com/videos/intro-to-html.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "f6g7h8i9-j0k1-l2m3-n4o5-p6q7r8s9t0u1",
+            "type": "Quiz",
+            "title": "HTML Tags Quiz",
+            "content": "1. What does HTML stand for?\n2. Name three basic HTML tags.\n3. What is the purpose of the <head> tag?",
+            "comments": []
+          },
+          {
+            "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
+            "type": "Text",
+            "title": "HTML Forms and Input Elements",
+            "content": "HTML forms are used to collect user input. Learn about various input types and form elements...",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "sectionId": "4f6g8h0i-2j4k-6l8m-0n2p-4q6r8s0t2u4v",
+        "sectionTitle": "CSS Styling",
+        "sectionDescription": "Learn how to style your HTML with CSS.",
+        "chapters": [
+          {
+            "chapterId": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+            "type": "Video",
+            "title": "CSS Basics",
+            "content": "https://example.com/videos/css-basics.mp4",
+            "video": "https://example.com/videos/css-basics.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
+            "type": "Text",
+            "title": "CSS Layout Techniques",
+            "content": "Learn about different CSS layout techniques including Flexbox and Grid...",
+            "comments": []
+          },
+          {
+            "chapterId": "j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y5",
+            "type": "Quiz",
+            "title": "CSS Styling Quiz",
+            "content": "1. What is the box model in CSS?\n2. Explain the difference between inline and block elements.\n3. How do you center an element horizontally and vertically using Flexbox?",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9",
+    "teacherId": "user_3rTg67LmZnXc4Vb8Wd0JyUhEq",
+    "teacherName": "Michael Brown",
+    "title": "Data Science Fundamentals",
+    "description": "Learn the basics of data science, including statistics, data visualization, and machine learning.",
+    "category": "Data Science",
+    "image": "https://images.pexels.com/photos/4491461/pexels-photo-4491461.jpeg",
+    "price": 8999,
+    "level": "Intermediate",
+    "status": "Published",
+    "enrollments": [
+      { "userId": "user_6tHm89QwNpKj3Fx5Vy2RdLcBs" },
+      { "userId": "user_9xWp45MnKjL8vRt2Hs6BqDcEy" }
+    ],
+    "sections": [
+      {
+        "sectionId": "4u6v8w0x-2y4z-6a8b-0c2d-4e6f8g0h2i4j",
+        "sectionTitle": "Introduction to Data Science",
+        "sectionDescription": "Learn the basics of data science and its applications.",
+        "chapters": [
+          {
+            "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
+            "type": "Video",
+            "title": "What is Data Science?",
+            "content": "https://example.com/videos/what-is-data-science.mp4",
+            "video": "https://example.com/videos/what-is-data-science.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+            "type": "Quiz",
+            "title": "Data Science Basics Quiz",
+            "content": "1. Define data science.\n2. What are the main components of data science?\n3. How does machine learning relate to data science?",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
+    "teacherId": "user_7kFh92JkCpQw3N8M5L4xRzVtYs",
+    "teacherName": "John Doe",
+    "title": "Mobile App Development with React Native",
+    "description": "Build cross-platform mobile apps using React Native and JavaScript.",
+    "category": "Mobile App Development",
+    "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg",
+    "price": 12999,
+    "level": "Advanced",
+    "status": "Published",
+    "enrollments": [{ "userId": "user_6tHm89QwNpKj3Fx5Vy2RdLcBs" }],
+    "sections": [
+      {
+        "sectionId": "5k7l9m1n-3o5p-7q9r-1s3t-5u7v9w1x3y5z",
+        "sectionTitle": "Getting Started with React Native",
+        "sectionDescription": "Learn the basics of React Native development.",
+        "chapters": [
+          {
+            "chapterId": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
+            "type": "Video",
+            "title": "Setting Up Your Development Environment",
+            "content": "https://example.com/videos/react-native-setup.mp4",
+            "video": "https://example.com/videos/react-native-setup.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y5",
+            "type": "Text",
+            "title": "React Native Basics",
+            "content": "Learn about functions, objects, and other core concepts in JavaScript...",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
+    "teacherId": "user_9yZxWvUtSrQpLNmKjH8FgDcB",
+    "teacherName": "David Miller",
+    "title": "Full-Stack Web Development",
+    "description": "Learn how to build web applications using React, Node.js, and MongoDB.",
+    "category": "Web Development",
+    "image": "https://images.pexels.com/photos/3184639/pexels-photo-3184639.jpeg",
+    "price": 14999,
+    "level": "Intermediate",
+    "status": "Published",
+    "enrollments": [{ "userId": "user_3rTg67LmZnXc4Vb8Wd0JyUhEq" }],
+    "sections": [
+      {
+        "sectionId": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6q7",
+        "sectionTitle": "Frontend Development",
+        "sectionDescription": "Learn how to build dynamic UIs using React and Tailwind CSS.",
+        "chapters": [
+          {
+            "chapterId": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7r8",
+            "type": "Video",
+            "title": "Getting Started with React",
+            "content": "https://example.com/videos/react-intro.mp4",
+            "video": "https://example.com/videos/react-intro.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9",
+            "type": "Text",
+            "title": "Component Lifecycle",
+            "content": "Understand the different phases of React components and how to manage state.",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  }
+  ,
+  {
+    "courseId": "d9e8f7g6-h5i4-j3k2-l1m0-n9o8p7q6r5s4",
+    "teacherId": "user_6tHm89QwNpKj3Fx5Vy2RdLcBs",
+    "teacherName": "Sarah Lee",
+    "title": "Data Structures & Algorithms",
+    "description": "Master fundamental data structures and algorithms to ace coding interviews.",
+    "category": "Computer Science",
+    "image": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg",
+    "price": 9999,
+    "level": "Advanced",
+    "status": "Published",
+    "enrollments": [{ "userId": "user_5vBn23WsLkMp7Jh4Gt8FxYcRz" }],
+    "sections": [
+      {
+        "sectionId": "e7f8g9h0-i1j2-k3l4-m5n6-o7p8q9r0s1t2",
+        "sectionTitle": "Sorting Algorithms",
+        "sectionDescription": "Learn various sorting techniques and their complexities.",
+        "chapters": [
+          {
+            "chapterId": "f8g9h0i1-j2k3-l4m5-n6o7-p8q9r0s1t2u3",
+            "type": "Video",
+            "title": "Introduction to Sorting",
+            "content": "https://example.com/videos/sorting-intro.mp4",
+            "video": "https://example.com/videos/sorting-intro.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "g9h0i1j2-k3l4-m5n6-o7p8-q9r0s1t2u3v4",
+            "type": "Text",
+            "title": "Merge Sort Explained",
+            "content": "Learn how merge sort works and its time complexity.",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  }
+,{
+  "courseId": "x1y2z3a4-b5c6-d7e8-f9g0-h1i2j3k4l5m6",
+  "teacherId": "user_YkLmZxWvUtSrQpLNj8FgDcB",
+  "teacherName": "Emily Johnson",
+  "title": "UI/UX Design Fundamentals",
+  "description": "Learn the principles of user interface and user experience design.",
+  "category": "UI/UX Design",
+  "image": "https://images.pexels.com/photos/3184299/pexels-photo-3184299.jpeg",
+  "price": 7999,
+  "level": "Beginner",
+  "status": "Published",
+  "enrollments": [{ "userId": "user_3rTg67LmZnXc4Vb8Wd0JyUhEq" }],
+  "sections": [
+    {
+      "sectionId": "b7c8d9e0-f1g2-h3i4-j5k6-l7m8n9o0p1q2",
+      "sectionTitle": "Design Thinking",
+      "sectionDescription": "Understand the design thinking process.",
+      "chapters": [
+        {
+          "chapterId": "c8d9e0f1-g2h3-i4j5-k6l7-m8n9o0p1q2r3",
+          "type": "Video",
+          "title": "Introduction to UX",
+          "content": "https://example.com/videos/ux-intro.mp4",
+          "video": "https://example.com/videos/ux-intro.mp4",
+          "comments": []
+        }
+      ]
+    }
+  ]
+}
+,{
+  "courseId": "q1r2s3t4-u5v6-w7x8-y9z0-a1b2c3d4e5f6",
+  "teacherId": "user_XwVuTrQpLmNj8FgDcB",
+  "teacherName": "Michael Brown",
+  "title": "Cloud Computing with AWS",
+  "description": "Learn the fundamentals of cloud computing and AWS services.",
+  "category": "Cloud Computing",
+  "image": "https://images.pexels.com/photos/270408/pexels-photo-270408.jpeg",
+  "price": 10999,
+  "level": "Intermediate",
+  "status": "Published",
+  "enrollments": [{ "userId": "user_2ntu96pUCljUV2T9W0AThzjacQB" }],
+  "sections": [
+    {
+      "sectionId": "w9x8y7z6-a5b4-c3d2-e1f0-g9h8i7j6k5l4",
+      "sectionTitle": "AWS Basics",
+      "sectionDescription": "Learn about core AWS services and their applications.",
+      "chapters": [
+        {
+          "chapterId": "x8y7z6a5-b4c3-d2e1-f0g9-h8i7j6k5l4m3",
+          "type": "Video",
+          "title": "Introduction to AWS",
+          "content": "https://example.com/videos/aws-intro.mp4",
+          "video": "https://example.com/videos/aws-intro.mp4",
+          "comments": []
+        }
+      ]
+    }
+  ]
+},
+{
+  "courseId": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
+  "teacherId": "user_YzXwVuTrQpLmNj8FgD",
+  "teacherName": "Sophia Johnson",
+  "title": "DevOps Essentials",
+  "description": "Master DevOps principles and CI/CD pipelines.",
+  "category": "DevOps",
+  "image": "https://images.pexels.com/photos/3182773/pexels-photo-3182773.jpeg",
+  "price": 9999,
+  "level": "Beginner",
+  "status": "Published",
+  "enrollments": [{ "userId": "user_8a7b6c5d4e3f2g1h0i9j8k7l6m5n4o3" }],
+  "sections": [
+    {
+      "sectionId": "p6o5n4m3-l2k1-j0i9-h8g7-f6e5d4c3b2a1",
+      "sectionTitle": "DevOps Foundations",
+      "sectionDescription": "Understanding the basics of DevOps and automation.",
+      "chapters": [
+        {
+          "chapterId": "m3n4o5p6-l2k1-j0i9-h8g7-f6e5d4c3b2a1",
+          "type": "Video",
+          "title": "Introduction to DevOps",
+          "content": "https://example.com/videos/devops-intro.mp4",
+          "video": "https://example.com/videos/devops-intro.mp4",
+          "comments": []
+        }
+      ]
+    }
+  ]
+},
+{
+  "courseId": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6q7",
+  "teacherId": "user_LmNj8FgDcBXwVuTrQp",
+  "teacherName": "David Williams",
+  "title": "Machine Learning with Python",
+  "description": "Explore fundamental ML concepts and Python libraries.",
+  "category": "Machine Learning",
+  "image": "https://images.pexels.com/photos/1181354/pexels-photo-1181354.jpeg",
+  "price": 12999,
+  "level": "Advanced",
+  "status": "Published",
+  "enrollments": [{ "userId": "user_5o4n3m2l1k0j9i8h7g6f5e4d3c2b1a" }],
+  "sections": [
+    {
+      "sectionId": "q7p6o5n4-m3l2-k1j0-i9h8-g7f6e5d4c3b2",
+      "sectionTitle": "Introduction to Machine Learning",
+      "sectionDescription": "Learn about supervised and unsupervised learning techniques.",
+      "chapters": [
+        {
+          "chapterId": "n4o5p6q7-m3l2-k1j0-i9h8-g7f6e5d4c3b2",
+          "type": "Video",
+          "title": "Understanding Machine Learning",
+          "content": "https://example.com/videos/ml-intro.mp4",
+          "video": "https://example.com/videos/ml-intro.mp4",
+          "comments": []
+        }
+      ]
+    }
+  ]
+},
+{
+  "courseId": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7r8",
+  "teacherId": "user_QpLmNj8FgDcBXwVuTr",
+  "teacherName": "Emily Davis",
+  "title": "Full-Stack Web Development",
+  "description": "Learn front-end and back-end web development with modern technologies.",
+  "category": "Web Development",
+  "image": "https://images.pexels.com/photos/3184183/pexels-photo-3184183.jpeg",
+  "price": 13999,
+  "level": "Intermediate",
+  "status": "Published",
+  "enrollments": [{ "userId": "user_6q5p4o3n2m1l0k9j8i7h6g5f4e3d2c1b" }],
+  "sections": [
+    {
+      "sectionId": "r8q7p6o5-n4m3-l2k1-j0i9-h8g7f6e5d4c3",
+      "sectionTitle": "Getting Started with Full-Stack Development",
+      "sectionDescription": "Introduction to front-end and back-end technologies.",
+      "chapters": [
+        {
+          "chapterId": "o5p6q7r8-n4m3-l2k1-j0i9-h8g7f6e5d4c3",
+          "type": "Video",
+          "title": "Full-Stack Basics",
+          "content": "https://example.com/videos/fullstack-intro.mp4",
+          "video": "https://example.com/videos/fullstack-intro.mp4",
+          "comments": []
+        }
+      ]
+    }
+  ]
+},
+{
+  "courseId": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9",
+  "teacherId": "user_TrQpLmNj8FgDcBXwVu",
+  "teacherName": "James Miller",
+  "title": "Cybersecurity Fundamentals",
+  "description": "Understand the key concepts of cybersecurity and ethical hacking.",
+  "category": "Cybersecurity",
+  "image": "https://images.pexels.com/photos/5380669/pexels-photo-5380669.jpeg",
+  "price": 11999,
+  "level": "Beginner",
+  "status": "Published",
+  "enrollments": [{ "userId": "user_7r6q5p4o3n2m1l0k9j8i7h6g5f4e3d2c" }],
+  "sections": [
+    {
+      "sectionId": "s9r8q7p6-o5n4-m3l2-k1j0-i9h8g7f6e5d4c",
+      "sectionTitle": "Cybersecurity Basics",
+      "sectionDescription": "Learn about security threats, vulnerabilities, and protection strategies.",
+      "chapters": [
+        {
+          "chapterId": "p6q7r8s9-o5n4-m3l2-k1j0-i9h8g7f6e5d4c",
+          "type": "Video",
+          "title": "Introduction to Cybersecurity",
+          "content": "https://example.com/videos/cybersecurity-intro.mp4",
+          "video": "https://example.com/videos/cybersecurity-intro.mp4",
+          "comments": []
+        }
+      ]
+    }
+  ]
+}, {
+  "courseId": "ml1a2b3c4-d5e6-f7g8-h9i0-j1k2l3m4n5o6",
+  "teacherId": "user_A1B2C3D4E5F6G7H8I9J0",
+  "teacherName": "Alice Johnson",
+  "title": "Machine Learning Essentials",
+  "description": "Master the fundamentals of machine learning, including supervised and unsupervised learning techniques.",
+  "category": "Machine Learning",
+  "image": "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg",
+  "price": 15999,
+  "level": "Intermediate",
+  "status": "Published",
+  "enrollments": [{ "userId": "user_Z9Y8X7W6V5U4T3S2R1Q0P" }],
+  "sections": [
+    {
+      "sectionId": "sec_ml_basics_123",
+      "sectionTitle": "Introduction to Machine Learning",
+      "sectionDescription": "Learn the key concepts and types of machine learning.",
+      "chapters": [
+        {
+          "chapterId": "chap_ml_intro_abc",
+          "type": "Video",
+          "title": "What is Machine Learning?",
+          "content": "https://example.com/videos/ml-intro.mp4",
+          "video": "https://example.com/videos/ml-intro.mp4",
+          "comments": []
+        }
+      ]
+    }
+  ]
+},
+{
+  "courseId": "cyb2d3e4f5-g6h7-i8j9-k0l1-m2n3o4p5q6r7",
+  "teacherId": "user_F7G8H9I0J1K2L3M4N5O6",
+  "teacherName": "Robert Smith",
+  "title": "Advanced Cybersecurity",
+  "description": "Deep dive into cybersecurity, ethical hacking, and penetration testing techniques.",
+  "category": "Cybersecurity",
+  "image": "https://images.pexels.com/photos/3945683/pexels-photo-3945683.jpeg",
+  "price": 17999,
+  "level": "Advanced",
+  "status": "Published",
+  "enrollments": [{ "userId": "user_L9K8J7H6G5F4E3D2C1B0A" }],
+  "sections": [
+    {
+      "sectionId": "sec_cyb_eth_hacking_456",
+      "sectionTitle": "Ethical Hacking Basics",
+      "sectionDescription": "Learn about penetration testing and ethical hacking methodologies.",
+      "chapters": [
+        {
+          "chapterId": "chap_cyb_pen_test_xyz",
+          "type": "Video",
+          "title": "Introduction to Ethical Hacking",
+          "content": "https://example.com/videos/ethical-hacking-intro.mp4",
+          "video": "https://example.com/videos/ethical-hacking-intro.mp4",
+          "comments": []
+        }
+      ]
+    }
+  ]
+},
+{
+  "courseId": "dev1ops2a3b4c5-d6e7-f8g9-h0i1-j2k3l4m5n6o7",
+  "teacherId": "user_M8N9O0P1Q2R3S4T5U6V7",
+  "teacherName": "Daniel Brown",
+  "title": "DevOps Mastery",
+  "description": "Learn how to streamline software development and IT operations using DevOps principles and tools.",
+  "category": "DevOps",
+  "image": "https://images.pexels.com/photos/1181273/pexels-photo-1181273.jpeg",
+  "price": 14999,
+  "level": "Intermediate",
+  "status": "Published",
+  "enrollments": [{ "userId": "user_P1Q2R3S4T5U6V7W8X9Y0" }],
+  "sections": [
+    {
+      "sectionId": "sec_devops_ci_cd_789",
+      "sectionTitle": "CI/CD and Automation",
+      "sectionDescription": "Understand continuous integration, continuous deployment, and automation tools.",
+      "chapters": [
+        {
+          "chapterId": "chap_devops_ci_cd_ghi",
+          "type": "Video",
+          "title": "Introduction to CI/CD",
+          "content": "https://example.com/videos/devops-ci-cd.mp4",
+          "video": "https://example.com/videos/devops-ci-cd.mp4",
+          "comments": []
+        }
+      ]
+    }
+  ]
+},{
+  "courseId": "mob1a2b3c-d4e5-f6g7-h8i9-j0k1l2m3n4o5",
+  "teacherId": "user_4mNj68RtPvXw2Ky9Qc7HbSdAf",
+  "teacherName": "Alex Turner",
+  "title": "iOS App Development with Swift",
+  "description": "Learn to build professional iOS applications using Swift and SwiftUI.",
+  "category": "Mobile App Development",
+  "image": "https://images.pexels.com/photos/1294886/pexels-photo-1294886.jpeg",
+  "price": 13999,
+  "level": "Intermediate",
+  "status": "Published",
+  "enrollments": [
+    { "userId": "user_2ntu96pUCljUV2T9W0AThzjacQB" },
+    { "userId": "user_5vBn23WsLkMp7Jh4Gt8FxYcRz" }
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_ios_basics_123",
+      "sectionTitle": "Swift Programming Fundamentals",
+      "sectionDescription": "Master the basics of Swift programming language",
+      "chapters": [
+        {
+          "chapterId": "chap_swift_intro_abc",
+          "type": "Video",
+          "title": "Introduction to Swift",
+          "content": "https://example.com/videos/swift-intro.mp4",
+          "video": "https://example.com/videos/swift-intro.mp4",
+          "comments": []
+        },
+        {
+          "chapterId": "chap_swift_basics_def",
+          "type": "Quiz",
+          "title": "Swift Basics Quiz",
+          "content": "1. What is a variable in Swift?\n2. Explain optionals in Swift.\n3. What are Swift protocols?",
+          "comments": []
+        }
+      ]
+    }
+  ]
+},
+{
+  "courseId": "game1d2e3f-g4h5-i6j7-k8l9-m0n1o2p3q4r5",
+  "teacherId": "user_7kFh92JkCpQw3N8M5L4xRzVtYs",
+  "teacherName": "Sarah Chen",
+  "title": "Unity Game Development Fundamentals",
+  "description": "Create interactive 2D and 3D games using Unity game engine",
+  "category": "Game Development",
+  "image": "https://images.pexels.com/photos/159204/game-controller-joystick-joypad-gamepad-159204.jpeg",
+  "price": 11999,
+  "level": "Beginner",
+  "status": "Published",
+  "enrollments": [
+    { "userId": "user_6tHm89QwNpKj3Fx5Vy2RdLcBs" }
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_unity_basics_456",
+      "sectionTitle": "Getting Started with Unity",
+      "sectionDescription": "Learn Unity interface and basic game development concepts",
+      "chapters": [
+        {
+          "chapterId": "chap_unity_intro_xyz",
+          "type": "Video",
+          "title": "Unity Interface Overview",
+          "content": "https://example.com/videos/unity-interface.mp4",
+          "video": "https://example.com/videos/unity-interface.mp4",
+          "comments": []
+        },
+        {
+          "chapterId": "chap_unity_scripts_uvw",
+          "type": "Text",
+          "title": "C# Scripting in Unity",
+          "content": "Learn how to write C# scripts for game objects and behaviors...",
+          "comments": []
+        }
+      ]
+    }
+  ]
+},
+{
+  "courseId": "iot1g2h3i-j4k5-l6m7-n8o9-p0q1r2s3t4u5",
+  "teacherId": "user_3rTg67LmZnXc4Vb8Wd0JyUhEq",
+  "teacherName": "Michael Rodriguez",
+  "title": "IoT with Arduino and Raspberry Pi",
+  "description": "Build smart devices and automate your world with IoT technologies",
+  "category": "Internet of Things (IoT)",
+  "image": "https://images.pexels.com/photos/1472443/pexels-photo-1472443.jpeg",
+  "price": 9999,
+  "level": "Intermediate",
+  "status": "Published",
+  "enrollments": [
+    { "userId": "user_9xWp45MnKjL8vRt2Hs6BqDcEy" }
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_iot_arduino_789",
+      "sectionTitle": "Arduino Programming",
+      "sectionDescription": "Learn to program Arduino microcontrollers",
+      "chapters": [
+        {
+          "chapterId": "chap_arduino_basics_def",
+          "type": "Video",
+          "title": "Getting Started with Arduino",
+          "content": "https://example.com/videos/arduino-basics.mp4",
+          "video": "https://example.com/videos/arduino-basics.mp4",
+          "comments": []
+        },
+        {
+          "chapterId": "chap_sensors_ghi",
+          "type": "Quiz",
+          "title": "Sensors and Actuators",
+          "content": "1. What is a digital sensor?\n2. How do actuators work?\n3. Explain PWM signals.",
+          "comments": []
+        }
+      ]
+    }
+  ]
+}
+  
+]
